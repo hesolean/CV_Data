@@ -28,6 +28,7 @@ align-items: center;
 }
 figure, .github {
 text-align: center;
+background-color: rgb(185, 185, 185);
 }
 img {
 width: 75%;
